@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "changeLog": [
-    "Fixed Reload Screen Button"
+    "Fixed Reload Screen Button & Change caching"
   ]
 }
