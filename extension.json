@@ -1,6 +1,7 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "changeLog": [
-    "Fixed Reload Screen Button & Change caching"
+    "Added always on debugger",
+    "Added tag check before finalizing tags"
   ]
 }
