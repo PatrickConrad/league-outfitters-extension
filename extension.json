@@ -1,7 +1,6 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "changeLog": [
-    "Added always on debugger",
-    "Added tag check before finalizing tags"
+    "Fixed loading view"
   ]
 }
