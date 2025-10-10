@@ -1,5 +1,5 @@
 {
-  "version": "1.0.17",
+  "version": "1.0.18",
   "changeLog": [
     "Added always on debugger",
     "Added tag check before finalizing tags"
